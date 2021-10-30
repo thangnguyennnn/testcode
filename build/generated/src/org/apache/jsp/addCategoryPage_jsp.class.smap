@@ -1,0 +1,20 @@
+SMAP
+addCategoryPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 addCategoryPage.jsp
+addCategoryPage.jsp
+*L
+1,52:54
+53,2:106,3
+55,80:112
+134:266,8
+135,4:274
+138,2:194
+139:296,8
+140,4:304
+143,31:198
+174:229,3
+175,17:232
+*E
